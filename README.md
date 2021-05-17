@@ -1,2 +1,7 @@
-# web-scraping-catalogo-peliculas-
-Base Datos de Peliculas https://repelishd.me/
+# web-scraping-catalogo-peliculas
+
+Relacion en Excel de las Peliculas en https://repelishd.me/ utilizando Python.
+Librerias:
+BeautifulSoup
+Requests
+Pandas
